@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this standard, please cite it as below."
+title: "GRUS-STD-U59976 — Metering and Measurement Standard for the U59976 Utility"
+authors:
+  - name: "Green Recursive Utility Service LLC"
+doi: 10.5281/zenodo.23990636
+url: "https://doi.org/10.5281/zenodo.23990636"
+date-released: 2026-11-04
+version: "1.0"
+license: CC0-1.0
+type: standard
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23990635
+    description: "Concept DOI for all versions of this standard"
+  - type: other
+    value: "ISNI 0000 0005 3033 4084"
+    description: "Publisher ISNI"
